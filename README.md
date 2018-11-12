@@ -4,6 +4,8 @@ Sticking with tradition and going for the early days of electronics with this ki
 
 
 ## Bill of Materials
+|Qty | Code | Description |
+|--- | --- | --- |
 |1 | [ZL3555](http://jaycar.com.au/p/ZL3555) | 555 Timer IC
 |1 | [RE6066](http://jaycar.com.au/p/RE6066) | 10uf cap
 |1 | [RR2774](http://jaycar.com.au/p/RR2774) | 1k resistor
