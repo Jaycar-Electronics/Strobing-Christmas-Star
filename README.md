@@ -103,7 +103,7 @@ Finally, once you're happy with both stages, just connect the clock out of the 5
 When you connect the two stages together, you should also be connecting the VCC and GND wires to both boards as well, so that they can both have power.
 
 
-Add a bit of structure for the lights, you could use hard wire to bend it into a shape, or dress it around a barbie to act as an angle. I cut a star out of cardboard and hotglued my lights to it.
+Add a bit of structure for the lights, you could use hard wire to bend it into a shape, or dress it around a barbie to act as an angel. I cut a star out of cardboard and hotglued my lights to it.
 
 ![](images/benchtop.jpg)
 
